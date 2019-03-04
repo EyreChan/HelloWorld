@@ -1,2 +1,0 @@
-# HelloWorld
-learn django
